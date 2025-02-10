@@ -1,39 +1,45 @@
 ### Hi there 👋
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a product-focused technology leader with proven impact through mobile innovations, reaching 2M+ monthly users. Founder of a non-profit and open-source contributor passionate about leveraging technology for education.
 
-I'm a senior mobile software engineer with over 7 years of experience in building scalable and fast mobile infrastructures. I have built more than 20 apps for clients that are being used by thousands of users daily.
+With 10+ years of experience building impactful mobile solutions, I've architected and launched 30+ applications, including the Quran App (gtaf.org) that serves 2M+ monthly users.
 
-Feel free to reach me via email at [nabil6391@gmail.com](mailto:nabil6391@gmail.com) or call me at +601161981135. You can also find me on [LinkedIn](https://www.linkedin.com/in/nabil6391) and [Medium](https://nabil6391.medium.com).
+## Key Areas of Expertise
+- Product Development: Data-driven feature prioritization, User feedback loops, Product metrics analysis
+- Mobile Architecture: Native Android (Java/Kotlin), Flutter, Performance optimization
+- Full-Stack Engineering: React.js frontend, Node.js & Golang backend, Scalable solutions
+- Data & AI: Speech-to-text research, Face detection, Analytics implementation
+- Leadership: Non-profit founder, Technical team leadership, Cross-functional collaboration
 
-## My Projects
+## Notable Projects
 
 ### [GraphView](https://github.com/nabil6391/graphview) ![Stars](https://img.shields.io/github/stars/nabil6391/graphview?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/graphview?style=social)
-Flutter GraphView is used to display data in graph structures. It can display Tree layout, Directed and Layered graph. This is useful for Family Tree, Hierarchy View.
-
-### [LottieSwipeRefreshLayout](https://github.com/nabil6391/LottieSwipeRefreshLayout) ![Stars](https://img.shields.io/github/stars/nabil6391/LottieSwipeRefreshLayout?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/LottieSwipeRefreshLayout?style=social)
-A custom SwipeRefreshLayout that shows a Lottie View on top instead. 
-
-### [QuranTajweed](https://github.com/nabil6391/qurantajweed) ![Stars](https://img.shields.io/github/stars/nabil6391/qurantajweed?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/qurantajweed?style=social)
-Quran Tajweed Highlighter in Java. 
-
-### [Flutter Strings to ARB](https://github.com/nabil6391/flutter-strings-to-arb) ![Stars](https://img.shields.io/github/stars/nabil6391/flutter-strings-to-arb?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/flutter-strings-to-arb?style=social)
-A Dart utility to convert Flutter Strings to ARB format.
+Flutter GraphView for displaying hierarchical data structures - perfect for Family Trees and Hierarchy Views.
 
 ### [Al-Quran](https://github.com/GreentechApps/Al-Quran) ![Stars](https://img.shields.io/github/stars/GreentechApps/Al-Quran?style=social) ![Forks](https://img.shields.io/github/forks/GreentechApps/Al-Quran?style=social)
-An Islamic application built in collaboration with Greentech Apps Foundation.
+Islamic education platform serving 2M+ monthly active users globally.
 
 ### [Flutter Download Manager](https://github.com/nabil6391/flutter_download_manager) ![Stars](https://img.shields.io/github/stars/nabil6391/flutter_download_manager?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/flutter_download_manager?style=social)
-A Cross-Platform file downloader for Flutter with resumable, parallel, and batch download support. Also be notified of download status and progress updates.
+Cross-platform download solution with resumable, parallel, and batch capabilities.
+
+## Current Focus Areas
+- Scaling mobile applications to serve millions of users
+- AI integration in mobile platforms, particularly speech-to-text and face detection
+- Data-driven product optimization and user experience enhancement
+- Cross-platform development with Flutter
+- Technical leadership and team mentoring
+
+## Publications & Writing
+- 📚 [Graphview Flutter Library](https://pub.dev/packages/graphview)
+- 📚 [LottieSwipeRefreshLayout](https://github.com/nabil6391/LottieSwipeRefreshLayout)
+- 📚 [OpusCafConverter](https://github.com/nabil6391/opus_caf_converter)
+- ✒️ [Medium Blog](https://nabil6391.medium.com/)
+- ✒️ [Substack](https://nabilmh.substack.com/)
+
+## Let's Connect
+- 📧 Email: [nabil6391@gmail.com](mailto:nabil6391@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nabil6391)
+- 📝 [Medium](https://nabil6391.medium.com)
 
 ## Skills
 - Programming Languages: Java (7y+), Kotlin (4y+), Dart (3y+)
@@ -45,7 +51,16 @@ A Cross-Platform file downloader for Flutter with resumable, parallel, and batch
  (Huggingface), Appium, Jenkins
 
 ## Professional Experience
-### Lead Android Developer at Photobook, Malaysia (November 2019 - Present)
+
+### Senior Software Engineer at Seek, Australia (Based in Malaysia) (July 2023 - Present)
+- Senior Software Engineer for Career, which recently achieved 2M+ MAU
+- Worked with a team of 8 developers from Australia, Hong Kong, Philippines, and Malaysia.
+- Worked with Kotlin, Jetpack Compose, and GraphQL to enhance the mobile app's user experience.
+- Collaborated with product managers and designers to implement new features.
+- Conducted code reviews and maintained coding standards.
+- Improved development processes for increased productivity.
+
+### Lead Android Developer at Photobook, Malaysia (November 2019 - June 2023)
 - Led an agile team of 5 Android Developers.
 - Introduced a foundation for the advanced project editor for the app.
 - Improved performance of the photo picker using kotlin coroutines, reducing time taken by 50%.
