@@ -11,6 +11,14 @@ With 10+ years of experience building impactful mobile solutions, I've architect
 - Data & AI: Speech-to-text research, Face detection, Analytics implementation
 - Leadership: Non-profit founder, Technical team leadership, Cross-functional collaboration
 
+
+## Current Focus Areas
+- Scaling mobile applications to serve millions of users
+- AI integration in mobile platforms, particularly speech-to-text and face detection
+- Data-driven product optimization and user experience enhancement
+- Cross-platform development with Flutter
+- Technical leadership and team mentoring
+  
 ## Notable Projects
 
 ### [GraphView](https://github.com/nabil6391/graphview) ![Stars](https://img.shields.io/github/stars/nabil6391/graphview?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/graphview?style=social)
@@ -22,12 +30,6 @@ Islamic education platform serving 2M+ monthly active users globally.
 ### [Flutter Download Manager](https://github.com/nabil6391/flutter_download_manager) ![Stars](https://img.shields.io/github/stars/nabil6391/flutter_download_manager?style=social) ![Forks](https://img.shields.io/github/forks/nabil6391/flutter_download_manager?style=social)
 Cross-platform download solution with resumable, parallel, and batch capabilities.
 
-## Current Focus Areas
-- Scaling mobile applications to serve millions of users
-- AI integration in mobile platforms, particularly speech-to-text and face detection
-- Data-driven product optimization and user experience enhancement
-- Cross-platform development with Flutter
-- Technical leadership and team mentoring
 
 ## Publications & Writing
 - 📚 [Graphview Flutter Library](https://pub.dev/packages/graphview)
