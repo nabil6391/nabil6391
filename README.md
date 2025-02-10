@@ -60,6 +60,13 @@ Cross-platform download solution with resumable, parallel, and batch capabilitie
 - Conducted code reviews and maintained coding standards.
 - Improved development processes for increased productivity.
 
+### Chairperson of the Board at Greentech Apps Foundation (2020 - Present)
+Non-profit organization serving 2M+ Muslims globally through educational technology
+
+- Providing strategic vision and governance leadership for a platform reaching 2M+ monthly active users
+- Fostering partnerships and collaborations with international Islamic organizations
+- Mentoring leadership team and guiding yearly strategic planning
+
 ### Lead Android Developer at Photobook, Malaysia (November 2019 - June 2023)
 - Led an agile team of 5 Android Developers.
 - Introduced a foundation for the advanced project editor for the app.
